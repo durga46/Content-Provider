@@ -29,6 +29,7 @@ Registeration Number : 212220230019
 */
 ```
 ## MainActivity.java
+```python
 package com.example.contentprovider;
 
 import androidx.appcompat.app.AppCompatActivity;
