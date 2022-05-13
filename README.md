@@ -27,6 +27,7 @@ Program to print the text create your own content providers to get contacts deta
 Developed by: Gowri M
 Registeration Number : 212220230019
 */
+```
 ## MainActivity.java
 package com.example.contentprovider;
 
