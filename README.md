@@ -24,8 +24,8 @@ Step 7: Save and run the application.
 ```python
 /*
 Program to print the text create your own content providers to get contacts details.
-Developed by: Gowri M
-Registeration Number : 212220230019
+Developed by: DurgaDevi P
+Registeration Number : 212220230015
 */
 ```
 ## MainActivity.java
