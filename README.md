@@ -1,4 +1,5 @@
-# Ex.No:3 Create Your Own Content Providers to get Contacts details.
+# <p align="center"> Ex.No:3 Create Your Own Content Providers to get Contacts details.</p>
+
 ## AIM:
 To create your own content providers to get contacts details using Android Studio.
 
